@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there 👋, I'm Hermela Tesfaye
 
-<!--
-**Hermi-123/Hermi-123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Flutter Mobile App Developer  
+💡 Passionate about building clean and user-friendly applications  
+🛠 Laravel & Vue Enthusiast  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Flutter / Dart
+- Laravel / PHP
+- Vue.js
+- JavaScript / TypeScript
+- MySQL
+
+---
+
+## 📌 What I Do
+- Mobile App Development with Flutter
+- Backend Development with Laravel
+- Frontend Interfaces with Vue
+
+---
+
+## 🌱 Currently Learning
+- Advanced Flutter Architecture
+- Full-Stack Development
+
+---
+
+## 📫 Connect With Me
+- GitHub: https://github.com/YOUR_USERNAME
